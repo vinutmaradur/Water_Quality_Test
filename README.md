@@ -7,7 +7,7 @@ This project is a Streamlit-based web application that predicts the potability o
 # Screenshot
 
 ![img_alt](https://github.com/vinutmaradur/Water_Quality_Test/blob/main/wp%201.png?raw=true)
-![img alt]()
+![img alt](https://github.com/vinutmaradur/Water_Quality_Test/blob/main/wp%202.png?raw=true)
 
 # Features
 
