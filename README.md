@@ -10,7 +10,7 @@ This project is a Streamlit-based web application that predicts the potability o
 
 ---
 
-## About Dataset 
+## About Dataset 📊
 
 The water_potability.csv dataset contains information about water samples and their potability status. This dataset can be used to build machine learning models to predict whether water is safe for drinking based on its physical and chemical properties.
 
@@ -99,7 +99,7 @@ The dataset is publicly available and commonly used in data science projects. If
 
 ---
 
-## Tech Stack
+## Tech Stack 🔍
 - Python 🐍
 - Streamlit ☁️
 - Pandas 📊
@@ -141,7 +141,7 @@ The dataset is publicly available and commonly used in data science projects. If
 
   ---
 
- ## Usage
+ ## Usage 💻
  
 1. Launch the app and input the following water parameters:
 - pH Value
@@ -158,7 +158,7 @@ The dataset is publicly available and commonly used in data science projects. If
 
 ---
 
-## File Structure
+## File Structure 📂
 ```bash
   ├── app.py                  # Main application script  
   ├── water_potability.csv    # Dataset (to be added manually)  
