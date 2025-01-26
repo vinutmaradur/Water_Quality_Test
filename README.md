@@ -10,7 +10,7 @@ This project is a Streamlit-based web application that predicts the potability o
 
 ---
 
-## About Dataset
+## About Dataset 
 
 The water_potability.csv dataset contains information about water samples and their potability status. This dataset can be used to build machine learning models to predict whether water is safe for drinking based on its physical and chemical properties.
 
@@ -168,7 +168,7 @@ The dataset is publicly available and commonly used in data science projects. If
 
  ---
 
- ## Contributing
+ ## Contributing 🤝
   
    Contributions are welcome! Feel free to submit a pull request or report issues.
 
