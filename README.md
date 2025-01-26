@@ -91,7 +91,7 @@ The dataset is publicly available and commonly used in data science projects. If
 
 ---
 
-## Features
+## Features 🎯
 
 - **Interactive User Interface**: Users can input water quality parameters and get predictions on water potability.
 - **Machine Learning Model**: A trained XGBoost model is used to classify water as potable or non-potable.
