@@ -1,14 +1,14 @@
-**Water Quality Prediction Application**
+# Water Quality Prediction Application
 
 ---
 
 This project is a Streamlit-based web application that predicts the potability of water based on various water quality parameters. It uses machine learning algorithms, particularly the XGBoost Classifier, to determine whether the water is safe for drinking.
 
-**Screenshot**
+# Screenshot
 
 
 
-**Features**
+# Features
 
 - **Interactive User Interface**: Users can input water quality parameters and get predictions on water potability.
 - **Machine Learning Model**: A trained XGBoost model is used to classify water as potable or non-potable.
@@ -57,7 +57,7 @@ This project is a Streamlit-based web application that predicts the potability o
 
   ---
 
- **Usage**
+ # Usage
  
 1. Launch the app and input the following water parameters:
 - pH Value
@@ -74,7 +74,7 @@ This project is a Streamlit-based web application that predicts the potability o
 
 ---
 
-**File Structure**
+# File Structure
 ```bash
   ├── app.py                  # Main application script  
   ├── water_potability.csv    # Dataset (to be added manually)  
@@ -84,12 +84,16 @@ This project is a Streamlit-based web application that predicts the potability o
 
  ---
 
- **Contributing**
- Contributions are welcome! Feel free to submit a pull request or report issues.
+ # Contributing
+  
+   Contributions are welcome! Feel free to submit a pull request or report issues.
 
  ---
 
-**License**
- This project is licensed under the MIT License.
+# License
+
+  This project is licensed under the MIT License.
+
+
 
  
