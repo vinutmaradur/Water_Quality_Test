@@ -1,15 +1,14 @@
-# Water Quality Prediction Application
+## Water Quality Prediction Application
+This project is a Streamlit-based web application that predicts the potability of water based on various water quality parameters. It uses machine learning algorithms, particularly the XGBoost Classifier, to determine whether the water is safe for drinking.
 
 ---
 
-This project is a Streamlit-based web application that predicts the potability of water based on various water quality parameters. It uses machine learning algorithms, particularly the XGBoost Classifier, to determine whether the water is safe for drinking.
-
-# Screenshot
+## Screenshot
 
 ![img_alt](https://github.com/vinutmaradur/Water_Quality_Test/blob/main/wp%201.png?raw=true)
 ![img alt](https://github.com/vinutmaradur/Water_Quality_Test/blob/main/wp%202.png?raw=true)
 
-# Features
+## Features
 
 - **Interactive User Interface**: Users can input water quality parameters and get predictions on water potability.
 - **Machine Learning Model**: A trained XGBoost model is used to classify water as potable or non-potable.
@@ -17,7 +16,7 @@ This project is a Streamlit-based web application that predicts the potability o
 
 ---
 
-# Tech Stack
+## Tech Stack
 - Python
 - Streamlit
 - Pandas
@@ -27,7 +26,7 @@ This project is a Streamlit-based web application that predicts the potability o
 
 ---
 
-# Installation and Setup
+## Installation and Setup
   1. Clone the Repository
   ```bash
   git clone https://github.com/your-username/your-repo-name.git  
@@ -58,7 +57,7 @@ This project is a Streamlit-based web application that predicts the potability o
 
   ---
 
- # Usage
+ ## Usage
  
 1. Launch the app and input the following water parameters:
 - pH Value
@@ -75,7 +74,7 @@ This project is a Streamlit-based web application that predicts the potability o
 
 ---
 
-# File Structure
+## File Structure
 ```bash
   ├── app.py                  # Main application script  
   ├── water_potability.csv    # Dataset (to be added manually)  
@@ -85,16 +84,27 @@ This project is a Streamlit-based web application that predicts the potability o
 
  ---
 
- # Contributing
+ ## Contributing
   
    Contributions are welcome! Feel free to submit a pull request or report issues.
 
  ---
 
-# License
+## License
 
   This project is licensed under the MIT License.
 
+## Acknowledgments 🙌
+- Streamlit for providing an excellent framework for building interactive web applications.
+- The dataset and machine learning model used for this project.
 
+## Check my code 👁️
+Below is the link to check my app
+
+  [Project demo](https://waterqualitytest-2025.streamlit.app/)
+
+## Happy Coding! 💻✨
+
+You can modify sections like the GitHub repository link or license if needed. Let me know if you'd like help adding anything else!
 
  
