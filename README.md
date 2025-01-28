@@ -178,14 +178,20 @@ The dataset is publicly available and commonly used in data science projects. If
 
   This project is licensed under the MIT License.
 
+---
+
 ## Acknowledgments 🙌
 - Streamlit for providing an excellent framework for building interactive web applications.
 - The dataset and machine learning model used for this project.
+
+---
 
 ## Check my code 👁️
 Below is the link to check my app
 
   [Project demo](https://waterqualitytest-2025.streamlit.app/) 🚀
+
+---
 
 ## Happy Coding! 💻✨
 
