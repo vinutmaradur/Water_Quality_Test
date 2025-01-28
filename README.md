@@ -174,7 +174,7 @@ The dataset is publicly available and commonly used in data science projects. If
 
  ---
 
-## License
+## License 📄
 
   This project is licensed under the MIT License.
 
